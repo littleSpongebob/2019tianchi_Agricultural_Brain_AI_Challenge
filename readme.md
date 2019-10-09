@@ -1,7 +1,6 @@
 # 项目名称
 
 无人机图像语义分割--天池2019年县域农业大脑AI挑战赛冠军(冲鸭！大黄)解决方案(部分代码)
-详细思路介绍见[博客链接](https://blog.csdn.net/qq_21407487/article/details/102326264)。
 [最终排行榜](https://tianchi.aliyun.com/competition/entrance/231717/rankingList)
 # 依赖
 
@@ -20,6 +19,7 @@
 * scikit-image==0.14.1
 * scipy==1.1.0
 * tqdm==4.28.1
+* tensorflow-gpu==1.12.0
 
 或者直接运行
 > pip install -r requirement.txt
